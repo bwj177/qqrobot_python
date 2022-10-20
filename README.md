@@ -1,0 +1,2 @@
+# qqrobot_python
+基于go-cqhttp的sdk群聊机器人使用python实现的qq
